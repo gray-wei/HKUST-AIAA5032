@@ -1,0 +1,7 @@
+# Ignore all files in trainval and test folders -> English
+hw1/data/trainval/*
+hw1/data/test/*
+
+# Keep the folders themselves (by adding .gitkeep files)
+!hw1/data/trainval/.gitkeep
+!hw1/data/test/.gitkeep
