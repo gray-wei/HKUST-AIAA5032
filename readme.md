@@ -1,0 +1,1 @@
+This is my homework for the course HKUSTGZ-AIAA-5032(https://www.kaggle.com/competitions/hkustgz-aiaa-5032-hw-1-spring-2025/overview).
