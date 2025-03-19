@@ -12,10 +12,7 @@ The video classification system adopts a three-stage architecture of "Feature Ex
 2. **Temporal Modeling**: Models video frame sequences through three optional temporal modeling modules (Transformer, LSTM, Attention).
 3. **Classifier**: Uses a multi-layer fully connected network for final classification with various regularization techniques.
 
-### Kaggle Results
-Kaggle Public Leaderboard:
 
-![Kaggle Public Leaderboard](./kaggle_results/kaggle_public.jpg)
 
 
 ### Key Features
